@@ -1,0 +1,15 @@
+{"eid": 1, "pid": null, "actor": "agent_blocking", "type": "attempt", "resources": ["R_database"], "outcome": "pending", "ts": 10673902842197}
+{"eid": 2, "pid": 1, "actor": "agent_blocking", "type": "wait", "resources": ["R_database"], "outcome": "blocking", "ts": 10673902871838}
+{"eid": 3, "pid": 1, "actor": "agent_blocking", "type": "abort", "resources": ["R_database"], "outcome": "timeout", "ts": 10674903403598}
+{"eid": 4, "pid": null, "actor": "agent_blocking", "type": "attempt", "resources": ["R_database"], "outcome": "pending", "ts": 10674903479552}
+{"eid": 5, "pid": 4, "actor": "agent_blocking", "type": "wait", "resources": ["R_database"], "outcome": "blocking", "ts": 10674903491493}
+{"eid": 6, "pid": 4, "actor": "agent_blocking", "type": "abort", "resources": ["R_database"], "outcome": "timeout", "ts": 10675903657768}
+{"eid": 7, "pid": null, "actor": "agent_blocking", "type": "attempt", "resources": ["R_database"], "outcome": "pending", "ts": 10675903730492}
+{"eid": 8, "pid": 7, "actor": "agent_blocking", "type": "wait", "resources": ["R_database"], "outcome": "blocking", "ts": 10675903742033}
+{"eid": 9, "pid": 7, "actor": "agent_blocking", "type": "abort", "resources": ["R_database"], "outcome": "timeout", "ts": 10676904186188}
+{"eid": 10, "pid": null, "actor": "agent_blocking", "type": "attempt", "resources": ["R_database"], "outcome": "pending", "ts": 10676904262803}
+{"eid": 11, "pid": 10, "actor": "agent_blocking", "type": "wait", "resources": ["R_database"], "outcome": "blocking", "ts": 10676904274424}
+{"eid": 12, "pid": 10, "actor": "agent_blocking", "type": "abort", "resources": ["R_database"], "outcome": "timeout", "ts": 10677904972933}
+{"eid": 13, "pid": null, "actor": "agent_blocking", "type": "attempt", "resources": ["R_database"], "outcome": "pending", "ts": 10677905089960}
+{"eid": 14, "pid": 13, "actor": "agent_blocking", "type": "wait", "resources": ["R_database"], "outcome": "blocking", "ts": 10677905103341}
+{"eid": 15, "pid": 13, "actor": "agent_blocking", "type": "abort", "resources": ["R_database"], "outcome": "timeout", "ts": 10678905303092}
